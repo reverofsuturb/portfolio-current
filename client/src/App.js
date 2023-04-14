@@ -23,6 +23,7 @@ export default function App() {
       <AnimatePresence>
       <Routes>
           <Route path="/" element={<About />} />
+          <Route path="/portfolio-current" element={<About />} />
           <Route path="/projects" element={<Projects />} />
           <Route path="/project/1" element={<Projecta />} />
           <Route path="/project/2" element={<Projectb />} />
