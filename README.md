@@ -18,7 +18,7 @@ Check out my [Porfolio](https://reverofsuturb.github.io/portfolio-current/)
 ![image](https://user-images.githubusercontent.com/123116188/231957573-3a4d50ed-b8cf-4077-98d6-908973eaf21c.png)
 
 ## Contributing
-- [daisyui](https://www.npmjs.com/package/react-daisyui](https://daisyui.com/) <br>
+- [daisyui](https://daisyui.com/) <br>
 - [react-router-dom](https://reactrouter.com/en/main)
 ## Tests
 N/A
