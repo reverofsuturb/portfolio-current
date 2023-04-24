@@ -16,12 +16,12 @@ export default function Projectf() {
           <img
             src={projarray[5].screenshot}
             className="max-w-lg rounded-lg shadow-2xl"
-            alt="business tool application"
+            alt="business and social media application"
           />
           <div>
             <h1 className="text-2xl font-bold">{projarray[5].title}</h1>
             <p className="py-6">{projarray[5].description}</p>
-            <button className="btn btn-base-200 m-5 btn-disabled">
+            <button className="btn btn-base-200 m-5">
               <a href={projarray[5].deploylink}>take me there</a>
             </button>
             <button className="btn btn-base-200 m-5">

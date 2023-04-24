@@ -18,21 +18,21 @@ export default function Projects() {
         </div>
         <div className="card m-5 w-96 bg-base-200 shadow-xl">
           <figure>
-            <img src={projarray[0].screenshot} alt="flix and tails homepage" />
+            <img src={projarray[5].screenshot} alt="flix and tails homepage" />
           </figure>
           <div className="card-body">
-            <h2 className="card-title">{projarray[0].title}</h2>
+            <h2 className="card-title">{projarray[5].title}</h2>
             <p>
-            {projarray[0].description}
+            {projarray[5].description}
             </p>
             <div className="card-actions">
               <button className="btn btn-ghost">
-                <a href={projarray[0].deploylink}>
+                <a href={projarray[5].deploylink}>
                   take me there
                 </a>
               </button>
               <button className="btn btn-ghost">
-              <a href={projarray[0].githublink}>github</a>
+              <a href={projarray[5].githublink}>github</a>
               </button>
             </div>
           </div>
@@ -60,21 +60,21 @@ export default function Projects() {
         </div>
         <div className="card m-5 w-96 bg-base-200 shadow-xl">
           <figure>
-            <img src={projarray[2].screenshot} alt="text editor application" />
+            <img src={projarray[0].screenshot} alt="text editor application" />
           </figure>
           <div className="card-body">
-            <h2 className="card-title">{projarray[2].title}</h2>
+            <h2 className="card-title">{projarray[0].title}</h2>
             <p>
-            {projarray[2].description}
+            {projarray[0].description}
             </p>
             <div className="card-actions">
               <button className="btn btn-ghost">
-                <a href={projarray[2].deploylink}>
+                <a href={projarray[0].deploylink}>
                   take me there
                 </a>
               </button>
               <button className="btn btn-ghost">
-              <a href={projarray[2].githublink}>github</a>
+              <a href={projarray[0].githublink}>github</a>
               </button>
             </div>
           </div>
@@ -123,21 +123,21 @@ export default function Projects() {
         </div>
         <div className="card m-5 w-96 bg-base-200 shadow-xl">
           <figure>
-            <img src={projarray[5].screenshot} alt="business tool application" />
+            <img src={projarray[2].screenshot} alt="business tool application" />
           </figure>
           <div className="card-body">
-            <h2 className="card-title">{projarray[5].title}</h2>
+            <h2 className="card-title">{projarray[2].title}</h2>
             <p>
-            {projarray[5].description}
+            {projarray[2].description}
             </p>
             <div className="card-actions">
-              <button className="btn btn-ghost btn-disabled">
-                <a href={projarray[5].deploylink}>
+              <button className="btn btn-ghost">
+                <a href={projarray[2].deploylink}>
                   take me there
                 </a>
               </button>
               <button className="btn btn-ghost">
-              <a href={projarray[5].githublink}>github</a>
+              <a href={projarray[2].githublink}>github</a>
               </button>
             </div>
           </div>

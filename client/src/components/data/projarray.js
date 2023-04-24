@@ -1,10 +1,10 @@
 import flix from "../images/FlixandTails.png";
 import fluffy from "../images/Fluffy.png";
-import jate from "../images/jate.png"
-import getbusy from "../images/getbusy.png"
-import dnote from "../images/dnote.png"
-import relational from "../images/relational.png"
-
+import jate from "../images/jate.png";
+import getbusy from "../images/getbusy.png";
+import dnote from "../images/dnote.png";
+import relational from "../images/relational.png";
+import encoded from "../images/EncodedLandingPage.png";
 const projarray = [
   {
     title: "'flix and 'tails'",
@@ -44,11 +44,11 @@ const projarray = [
     githublink: "https://github.com/reverofsuturb/TheDailyNote",
   },
   {
-    title: "get busy",
-    screenshot: getbusy,
-    description: "a CLI application which interacts with a SQL database in order to manage and update employees as well as other functions",
-    deploylink: "",
-    githublink: "https://github.com/reverofsuturb/GetBusy",
+    title: "encoded",
+    screenshot: encoded,
+    description: "a tech based social media and employment website and pwa capabilities featuring react, apollo server, graph ql, and tailwindcss",
+    deploylink: "https://encoded-platform.herokuapp.com/",
+    githublink: "https://github.com/therealsweven/magnificent-mustache-men",
   },
 ];
 
