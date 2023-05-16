@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/portfolio-current/static/css/main.00c58fa9.css",
-    "main.js": "/portfolio-current/static/js/main.9a54178b.js",
+    "main.css": "/portfolio-current/static/css/main.46f4af5a.css",
+    "main.js": "/portfolio-current/static/js/main.23a1ee01.js",
     "static/js/787.c4e7f8f9.chunk.js": "/portfolio-current/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/EncodedLandingPage.png": "/portfolio-current/static/media/EncodedLandingPage.14345182c28bef219de9.png",
     "static/media/Fluffy.png": "/portfolio-current/static/media/Fluffy.cfa3c3e2365e56c0d70d.png",
     "static/media/sfantasia.jpg": "/portfolio-current/static/media/sfantasia.c02bd7c6335a3b15e4fd.jpg",
     "static/media/FlixandTails.png": "/portfolio-current/static/media/FlixandTails.1184f9d4d7f1fffa6647.png",
@@ -11,12 +12,12 @@
     "static/media/jate.png": "/portfolio-current/static/media/jate.13c476580470a3fc0903.png",
     "static/media/dnote.png": "/portfolio-current/static/media/dnote.56c2e550dc64707a0747.png",
     "index.html": "/portfolio-current/index.html",
-    "main.00c58fa9.css.map": "/portfolio-current/static/css/main.00c58fa9.css.map",
-    "main.9a54178b.js.map": "/portfolio-current/static/js/main.9a54178b.js.map",
+    "main.46f4af5a.css.map": "/portfolio-current/static/css/main.46f4af5a.css.map",
+    "main.23a1ee01.js.map": "/portfolio-current/static/js/main.23a1ee01.js.map",
     "787.c4e7f8f9.chunk.js.map": "/portfolio-current/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.00c58fa9.css",
-    "static/js/main.9a54178b.js"
+    "static/css/main.46f4af5a.css",
+    "static/js/main.23a1ee01.js"
   ]
 }
