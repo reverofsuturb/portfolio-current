@@ -45,7 +45,6 @@ export default function Navbar() {
           <li></li>
         </ul>
       </div>
-      <Link to="/resume" className="btn btn-ghost normal-case text-xl">resume</Link>
       <Contact />
     </div>
   );

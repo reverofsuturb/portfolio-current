@@ -5,20 +5,6 @@ import { Link } from 'react-router-dom'
 
 export default function About() {
   
-  const ButtonMailto = ({ mailto, label }) => {
-    return (
-        <Link
-            to='#'
-            onClick={(e) => {
-                window.location.href = mailto;
-                e.preventDefault();
-            }}
-        >
-            {label}
-        </Link>
-    );
-};
-
   return (
     <motion.div
       className="main__container"
@@ -44,11 +30,11 @@ export default function About() {
               <a href="https://github.com/reverofsuturb/">github</a>
             </button>
             <button className="btn btn-base-200 m-5">
-            <ButtonMailto label="e-mail me" mailto="sfriedman6711@gmail.com" />
+            <Link to="/projects">work</Link>
             </button>
           </div>
         </div>
       </div>
     </motion.div>
   );
-}
+};
