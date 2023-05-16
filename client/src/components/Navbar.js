@@ -39,7 +39,7 @@ export default function Navbar() {
           </li>
 
           <li>
-            <Link to="/project/6">get busy</Link>
+            <Link to="/project/6">encoded</Link>
           </li>
 
           <li></li>
